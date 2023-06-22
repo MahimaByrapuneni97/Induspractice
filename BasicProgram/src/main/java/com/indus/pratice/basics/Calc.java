@@ -1,5 +1,7 @@
 package com.indus.pratice.basics;
 
+import java.lang.Math;
+
 /**
  * Description: Basic java programming
  * 
@@ -8,7 +10,8 @@ package com.indus.pratice.basics;
 public class Calc {
 	/**
 	 * Description: Subtraction of two parameters
-	 * @param par1: Always have positive numbers
+	 * 
+	 * @param par1:       Always have positive numbers
 	 * @param par2:Always have positive numbers
 	 * @return: return result value
 	 */
@@ -16,25 +19,44 @@ public class Calc {
 
 		double result = 0.0;
 		{
-			
-		result = par1 - par2;
+
+			result = par1 - par2;
 		}
 		return result;
 	}
+
 	public double multiplication(double parameter1, double parameter2) {
 		double result = 0.0;
 		{
-		result = parameter1 * parameter2;
+			result = parameter1 * parameter2;
 		}
 		return result;
 	}
+
 	public double division(double parmeter1, double parmeter2) {
 		double result = 0.0;
 		{
-		result = parmeter1 / parmeter2;
+			result = parmeter1 / parmeter2;
 		}
 		return result;
-		
+
+	}
+
+	public double modulo(double parameter1, double parameter2) {
+		double result = 0.0;
+		{
+			result = (parameter1%parameter2);
+		}
+		return result;
+	}
+
+	public double squareRoot(double parameter) {
+		double result = 0.0;
+		{
+			result = Math.sqrt(parameter);
+
+		}
+		return result;
 	}
 
 }

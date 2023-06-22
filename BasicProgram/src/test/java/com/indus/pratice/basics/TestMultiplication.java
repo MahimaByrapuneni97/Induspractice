@@ -3,16 +3,17 @@ package com.indus.pratice.basics;
 import junit.framework.TestCase;
 
 public class TestMultiplication extends TestCase {
+
 	Calc calObj = null;
 
 	protected void setUp() throws Exception {
-		 calObj = new Calc();
-		super.setUp();
+		calObj = new Calc();
+
 	}
 
 	protected void tearDown() throws Exception {
 		calObj = null;
-		super.tearDown();
+
 	}
 
 	public void testMultiplicationSer1() {

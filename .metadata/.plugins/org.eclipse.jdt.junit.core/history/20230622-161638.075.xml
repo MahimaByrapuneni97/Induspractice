@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestSquareRoot" project="BasicProgram" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.indus.pratice.basics.TestSquareRoot" time="0.0">
+    <testcase name="testMultiplicationSer2" classname="com.indus.pratice.basics.TestSquareRoot" time="0.0"/>
+    <testcase name="testsquareRootSer1" classname="com.indus.pratice.basics.TestSquareRoot" time="0.0"/>
+  </testsuite>
+</testrun>
