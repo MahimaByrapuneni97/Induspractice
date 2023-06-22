@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.indus.pratice.basics","l":"Calc"},{"p":"com.indus.pratice.basics","l":"TestDivision"},{"p":"com.indus.pratice.basics","l":"TestMultiplication"},{"p":"com.indus.pratice.basics","l":"TestSubtraction"}];updateSearchResults();

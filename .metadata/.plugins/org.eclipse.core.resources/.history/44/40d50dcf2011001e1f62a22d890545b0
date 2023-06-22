@@ -1,0 +1,13 @@
+package com.indus.pratice.basics;
+/**
+ * 
+ * @return
+ */
+public class Calc {
+	public double Subtraction(par1 , par2) {
+		result = 0.0;
+		result = par1 - par2;
+		return result;
+	}
+
+}
