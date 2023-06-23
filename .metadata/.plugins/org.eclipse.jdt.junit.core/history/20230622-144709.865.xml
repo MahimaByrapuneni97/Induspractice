@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun TestSubraction (Failed Tests first)" project="BasicProgram" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.indus.pratice.basics.TestSubraction" time="0.0">
-    <testcase name="testSubtractionSer2" classname="com.indus.pratice.basics.TestSubraction" time="0.0"/>
-  </testsuite>
-</testrun>

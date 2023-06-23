@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.indus.pratice.area_perimeter","l":"Area_Perimeter"},{"p":"com.indus.pratice.area_perimeter","l":"TestArea"},{"p":"com.indus.pratice.area_perimeter","l":"TestPerimeter"}];updateSearchResults();
