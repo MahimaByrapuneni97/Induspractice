@@ -19,7 +19,7 @@ public class TestConversion extends TestCase {
 		//3.Actual Output
 		double actualOutput = convObj.celsiusFahrenheit(f);
 		//Asserts
-		assertEquals(expectedOutput, actualOutput, 1);
+		assertEquals(expectedOutput,actualOutput,1);
 		
 		
 	}

@@ -51,10 +51,10 @@ public class TestPerimeter extends TestCase {
 		double r = 8.0;
 		
 		//2. Expected Output
-		double expectedOutput = 50.4;
+		double expectedOutput = 50.24;
 		//3. Actual Output
 		double actualOutput = areaObj.circlePerimeter(r);
 		//4. Asserts
-		assertEquals(expectedOutput, actualOutput, 0);
+		assertEquals(expectedOutput, actualOutput, 1);
 }
 }

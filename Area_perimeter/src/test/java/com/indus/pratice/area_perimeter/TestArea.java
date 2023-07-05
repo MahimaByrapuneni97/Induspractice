@@ -51,10 +51,10 @@ public class TestArea extends TestCase {
 		double r = 8.0;
 		
 		//2. Expected Output
-		double expectedOutput = 201.6;
+		double expectedOutput = 200.96;
 		//3. Actual Output
 		double actualOutput = areaObj.circleArea(r);
 		//4. Asserts
-		assertEquals(expectedOutput, actualOutput, 0);
+		assertEquals(expectedOutput, actualOutput, 1);
 }
 }

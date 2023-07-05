@@ -1,7 +1,7 @@
 package com.indus.pratice.area_perimeter;
 
 /**
- * Description: Find the area and parimeter of triangle, square, cricle and
+ * Description: Find the area and parameter of triangle, square, circle and
  * rectangle.
  * 
  * @author MahimaByrapuneni
@@ -10,7 +10,7 @@ package com.indus.pratice.area_perimeter;
 public class Area_Perimeter {
 	public double squareArea(double area) {
 		/**
-		 * area: Always have postive numbers
+		 * area: Always have positive numbers
 		 * return : return result
 		 */
 		
@@ -24,7 +24,7 @@ public class Area_Perimeter {
 
 	public double squarePerimeter(double area) {
 		/**
-		 * area: Always have postive numbers
+		 * area: Always have positive numbers
 		 * return : return result
 		 */
 		
@@ -37,8 +37,8 @@ public class Area_Perimeter {
 
 	public double triangleArea(double b, double h) {
 		/**
-		 * b: Always have postive numbers
-		 * h: Always have postive numbers
+		 * b: Always have positive numbers
+		 * h: Always have positive numbers
 		 * return : return result
 		 */
 double result = 0.0;
@@ -51,8 +51,8 @@ double result = 0.0;
 
 	public double trianglePerimeter(double s, double b) {
 		/**
-		 * s: Always have postive numbers
-		 * b: Always have postive numbers
+		 * s: Always have positive numbers
+		 * b: Always have positive numbers
 		 * return : return result
 		 */
 		double result = 0.0;
@@ -63,8 +63,8 @@ double result = 0.0;
 	}
 	public double rectangleArea(double l, double w) {
 		/**
-		 * l: Always have postive numbers
-		 * w: Always have postive numbers
+		 * l: Always have positive numbers
+		 * w: Always have positive numbers
 		 * return : return result
 		 */
 		double result=0.0;
@@ -77,8 +77,8 @@ double result = 0.0;
 
 	public double rectanglePerimeter(double l, double w) {
 		/**
-		 * l: Always have postive numbers
-		 * w: Always have postive numbers
+		 * l: Always have positive numbers
+		 * w: Always have positive numbers
 		 * return : return result
 		 */
 		double result=0.0;
@@ -91,23 +91,23 @@ double result = 0.0;
 	
 	public double circleArea(double r) {
 		/**
-		 * r: Always have postive numbers
+		 * r: Always have positive numbers
 		 * return : return result
 		 */
 		double result = 0.0;
 		{
-			result = 3.15*(r*r);
+			result = Math.PI*(r*r);
 		}
 		return result;
 		}
 	public double circlePerimeter(double r) {
 		/**
-		 * r: Always have postive numbers
+		 * r: Always have positive numbers
 		 * return : return result
 		 */
 		double result = 0.0;
 		{
-			result = 2* 3.15*r;
+			result = 2* Math.PI*r;
 		}
 		return result;
 	}

@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Indus\Workspaces\Practice\Area_perimeter\src\main\java\com\indus\pratice\area_perimeter\Area_Perimeter.java"/>
+			<item value="C:\Indus\Workspaces\Practice"/>
+			<item value="C:\Indus\Workspaces\Practice\Area_perimeter"/>
+			<item value="C:\Indus\Workspaces\Practice\BasicProgram\src\test\java\com\indus\pratice\basics\TestMultiplication.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -50,6 +54,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ConversionsCdt"/>
+			<item value="ConversionCdt"/>
+			<item value="AreaPerimeterCdt"/>
+			<item value="Cdt"/>
+			<item value="CDT"/>
+			<item value="Conversions"/>
+			<item value="Area_perimeter"/>
 			<item value="BasicProgram"/>
 			<item value="IndusTraningBasicProject"/>
 			<item value="JavaBasicProgram"/>

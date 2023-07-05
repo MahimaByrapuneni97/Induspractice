@@ -1,13 +1,13 @@
 package com.indus.pratice.conversions;
 /**
- * Description: Converting Celsisus to fahrenheit, pounds to kilogarms, miles to kilometers and vice-versa
+ * Description: Converting Celsisus to fahrenheit, pounds to kilograms, miles to kilometers and vice-versa
  * @author MahimaByrapuneni
  *
  */
 public class Conversion {
 	public double celsiusFahrenheit(double f) {
 		/*
-		 * F: Always have postive numbers.
+		 * F: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;
@@ -19,7 +19,7 @@ public class Conversion {
 
 	public double fahrenheitCelsius(double c) {
 		/*
-		 * C: Always have postive numbers.
+		 * C: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;
@@ -31,7 +31,7 @@ public class Conversion {
 
 	public double poundsKiloGrams(double p) {
 		/*
-		 * P: Always have postive numbers.
+		 * P: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;
@@ -43,7 +43,7 @@ public class Conversion {
 
 	public double kiloGramsPounds(double k) {
 		/*
-		 * K: Always have postive numbers.
+		 * K: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;
@@ -55,7 +55,7 @@ public class Conversion {
 
 	public double milesKiloMeters(double m) {
 		/*
-		 * M: Always have postive numbers.
+		 * M: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;
@@ -68,7 +68,7 @@ public class Conversion {
 
 	public double kiloMetersMiles(double k) {
 		/*
-		 * K: Always have postive numbers.
+		 * K: Always have positive numbers.
 		 * return: returns the result
 		 */
 		double result = 0.0;

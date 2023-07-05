@@ -2,4 +2,21 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.indus.training.basics.Calc"/>
     <fullyQualifiedTypeName name="java.sql.Clob"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.CalciOutput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.CalciInput"/>
+    <fullyQualifiedTypeName name="java.awt.geom.Area"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.areaperimetercdt.AreaCdt"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.areaperimetercdt.AreaOutput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.areaperimetercdt.AreaInput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.areaperimetercdt.PermiterInput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.areaperimetercdt.permiterOutput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.PermiterInput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.basics.PermiterCdt"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.permiterOutput"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.basics.ConvesionsCdt"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.ConversionInput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.ConversionsOutput"/>
 </qualifiedTypeNameHistroy>
