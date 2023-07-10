@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Indus\Workspaces\Practice\ConversionsCdt"/>
+			<item value="C:\Indus\Workspaces\Practice\AreaPerimeterCdt"/>
+			<item value="C:\Indus\Workspaces\Practice\Cdt\src\main\java\com\indus\pratice\domain\CalciInput.java"/>
+			<item value="C:\Indus\Workspaces\Practice\Cdt\src\main\java\com\indus\pratice\basics\Calci.java"/>
+			<item value="C:\Indus\Workspaces\Practice\Cdt\src\test\java\com\indus\pratice\basics\TestCalci.java"/>
 			<item value="C:\Indus\Workspaces\Practice\Area_perimeter\src\main\java\com\indus\pratice\area_perimeter\Area_Perimeter.java"/>
 			<item value="C:\Indus\Workspaces\Practice"/>
 			<item value="C:\Indus\Workspaces\Practice\Area_perimeter"/>
@@ -48,12 +53,18 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="IndusGroups"/>
 			<item value="IndusGroup"/>
 			<item value="Indus"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Operators"/>
+			<item value="Conversions_Cdt"/>
+			<item value="Area_Perimeter_Cdt"/>
+			<item value="Calci"/>
+			<item value="CalciCdt"/>
 			<item value="ConversionsCdt"/>
 			<item value="ConversionCdt"/>
 			<item value="AreaPerimeterCdt"/>

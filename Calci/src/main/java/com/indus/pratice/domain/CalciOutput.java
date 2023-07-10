@@ -61,6 +61,10 @@ public class CalciOutput {
 		this.result = result;
 	
 }
+	public void setOperation(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 

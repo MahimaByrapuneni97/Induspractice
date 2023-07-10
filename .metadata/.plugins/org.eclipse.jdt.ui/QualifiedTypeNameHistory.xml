@@ -19,4 +19,5 @@
     <fullyQualifiedTypeName name="com.indus.pratice.basics.ConvesionsCdt"/>
     <fullyQualifiedTypeName name="com.indus.pratice.domain.ConversionInput"/>
     <fullyQualifiedTypeName name="com.indus.pratice.domain.ConversionsOutput"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.domain.OperatorOutput"/>
 </qualifiedTypeNameHistroy>

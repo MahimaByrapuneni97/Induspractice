@@ -1,6 +1,0 @@
-package com.indus.pratice.basics;
-
-import junit.framework.TestCase;
-
-public class testMultiplication extends TestCase {
-	
